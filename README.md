@@ -1,2 +1,3 @@
 # Excel Coffe Shop Sales Dashboard
 I completed this Coffee Shop Sales Dashboard project in Excel by cleaning and preparing data, creating PivotTables, and designing an interactive dashboard with PivotCharts. I added calculated fields for revenue, month, day, and hour to enhance insights. Using PivotTables, I analyzed sales trends by month, day, hour, and product category. Finally, I built a dynamic dashboard with charts and slicers to visualize key insights, helping optimize sales strategies. This project showcases my skills in Excel data analysis, visualization, and dashboard creation.
+![Dashboard Screenshot](Project Images/Coffe Shop Sales Dashboard.PNG)
